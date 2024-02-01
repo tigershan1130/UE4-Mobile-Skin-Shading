@@ -1,7 +1,10 @@
-# UE4-Mobile-Skin-Shading
+# UE4-Mobile-Skin-Shading(YOU MUST SWITCH TO OPENGLES RENDERING MODE IN UE)
+
 Different method for Mobile Skin Shading with support on Opengl es 3.1
-![alt text](https://github.com/tigershan1130/UE4-Mobile-Skin-Shading/blob/main/HighresScreenshot00000.png)
-![alt text](https://github.com/tigershan1130/UE4-Mobile-Skin-Shading/blob/main/HighresScreenshot00001.png)
+![image](https://github.com/tigershan1130/UE4-Mobile-Skin-Shading/assets/39791762/c3c75744-e823-4c07-b305-8723033683e9)
+
+![image](https://github.com/tigershan1130/UE4-Mobile-Skin-Shading/assets/39791762/a7be1ece-6b59-4b61-b4e7-3dac2eab954b)
+
 left most uses LUT lookup for shading
 
 middle uses Gauss Spherical Approximation
