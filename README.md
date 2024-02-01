@@ -3,7 +3,8 @@
 Different method for Mobile Skin Shading with support on Opengl es 3.1
 ![image](https://github.com/tigershan1130/UE4-Mobile-Skin-Shading/assets/39791762/c3c75744-e823-4c07-b305-8723033683e9)
 
-![image](https://github.com/tigershan1130/UE4-Mobile-Skin-Shading/assets/39791762/a7be1ece-6b59-4b61-b4e7-3dac2eab954b)
+![image](https://github.com/tigershan1130/UE4-Mobile-Skin-Shading/assets/39791762/24217339-4e62-4f21-9655-5db16a523026)
+
 
 left most uses LUT lookup for shading
 
